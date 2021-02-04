@@ -18,10 +18,10 @@ Since there are different fingerprint sensors, which do not all work with 3.3V, 
 Some models can be used with both 3.3V and 5V voltage. These are particularly suitable (also in connection with an Arduino).
 
 The following is therefore required:
-* Bullet listRaspberry Pi Fingerprint Sensor (US* / UK*). Apart from the voltage the models do not differ much.
-*Bullet list[Serial USB converter (US* / UK*) with 3.3V and 5V connection]
-*Bullet list[Female-Female Jumper wires (US* / UK*), if not included with the USB converter.]
-*Bullet list[optional: cousing (which can also be 3d-printed)]
+* Raspberry Pi Fingerprint Sensor (US* / UK*). Apart from the voltage the models do not differ much.
+* Serial USB converter (US* / UK*) with 3.3V and 5V connection
+* Female-Female Jumper wires (US* / UK*), if not included with the USB converter.
+* optional: cousing (which can also be 3d-printed)
 
 
 Note in the article description, what voltage your sensor needs.
